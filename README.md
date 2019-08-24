@@ -9,4 +9,6 @@ the program does not check for a checkmate. Instead, it tells
 the users when a king is in check, but to win the game, 
 the king must be taken down and not checkmated.
 
+Just Run Main.java on a console (terminal/shell) and 
+
 Enjoy!
